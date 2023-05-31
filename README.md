@@ -6,7 +6,7 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="https://theharshitkushwaha.github.io/">theharshitkushwaha.github.io</a>
+  <a href="https://harshit4762.github.io/">theharshitkushwaha.github.io</a>
 </h2>
 
 <br/>
@@ -32,7 +32,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://theharshitkushwaha.github.io/)**
+To view a live example, **[click here]([https://theharshitkushwaha.github.io/])**
 
 ## Tools Used 🛠️
 
